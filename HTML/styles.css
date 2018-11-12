@@ -38,6 +38,8 @@ div {
 }
 
 #information {
+    text-align: center;
     border-style: solid;
     padding: 5px;
+
 }
