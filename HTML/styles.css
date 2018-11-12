@@ -39,6 +39,7 @@ div {
 
 #information {
     text-align: center;
+    width: auto;
     border-style: solid;
     padding: 5px;
 
