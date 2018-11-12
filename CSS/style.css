@@ -12,6 +12,11 @@ div {
     height: 135px;
 }
 
+#menu {
+    width: 545px;
+    text-align: right;
+}
+
 .inLine {
     display: inline;
 }
