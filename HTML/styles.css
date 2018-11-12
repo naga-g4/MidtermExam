@@ -1,0 +1,26 @@
+#wrapper {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    display: block;
+}
+
+#top {
+    height: 135px;
+}
+
+#menu {
+    width: 545px;
+    text-align: right;
+}
+
+.inLine {
+    display: inline;
+}
+
+.floatLeft {
+    float: left;
+}
