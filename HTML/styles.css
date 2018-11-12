@@ -36,3 +36,7 @@ div {
 .spacing {
     word-spacing: 45px;
 }
+
+#information {
+    border-color: black;
+}
