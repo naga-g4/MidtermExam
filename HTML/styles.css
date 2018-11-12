@@ -32,3 +32,7 @@ div {
 #content {
     width: 545px;
 }
+
+.spacing {
+    word-spacing: 10px;
+}
