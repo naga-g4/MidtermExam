@@ -46,3 +46,10 @@ div {
     line-height: 1px;
 
 }
+
+
+#footer {
+    text-align: center;
+    background-color: black;
+    height: 120px;
+}
