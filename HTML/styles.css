@@ -38,6 +38,6 @@ div {
 }
 
 #information {
-    border-color: #000;
+    border-style: solid;
     padding: 5px;
 }
