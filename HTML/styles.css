@@ -4,6 +4,10 @@
     margin-right: auto;
 }
 
+.clear {
+    clear: both;
+}
+
 div {
     display: block;
 }
