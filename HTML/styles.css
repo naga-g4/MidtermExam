@@ -24,3 +24,7 @@ div {
 .floatLeft {
     float: left;
 }
+
+.floatRight {
+    float: right;
+}
