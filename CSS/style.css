@@ -12,3 +12,10 @@ div {
     height: 135px;
 }
 
+.inLine {
+    display: inline;
+}
+
+.floatLeft {
+    float: left;
+}
