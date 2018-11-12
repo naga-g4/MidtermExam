@@ -40,6 +40,9 @@ div {
 .spacing {
     word-spacing: 45px;
 }
+.indent {
+    padding-left: 20px;
+}
 
 #information {
     text-align: center;
