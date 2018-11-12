@@ -28,3 +28,7 @@ div {
 .floatRight {
     float: right;
 }
+
+#content {
+    width: 545px;
+}
