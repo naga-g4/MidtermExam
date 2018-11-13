@@ -97,5 +97,5 @@ div {
 #text {
     position: absolute;
     background-color: black;
-
+    opacity: 80%;
 }
