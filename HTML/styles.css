@@ -62,9 +62,9 @@ div {
 }
 
 #mountain {
-    padding: 10px 10px;
+    padding: 10px 0;
     border: thin solid;
-    line-height: normal;
+
 
 
 }
