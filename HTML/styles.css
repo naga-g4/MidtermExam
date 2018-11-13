@@ -90,11 +90,11 @@ div {
     padding-top: 50px;
 }
 
-#image {
+.image {
     position: relative;
 }
 
-#text {
+.text {
     position: absolute;
     background-color: black;
     opacity: 80%;
