@@ -64,6 +64,7 @@ div {
 #mountain {
     padding: 10px 10px;
     border: thin solid;
+    line-height: normal;
 
 
 }
