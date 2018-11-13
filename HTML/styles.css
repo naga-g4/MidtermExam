@@ -25,6 +25,7 @@ div {
 
 #logo {
     width: 329px;
+    margin-right: 0;
 }
 
 .inLine {
@@ -62,10 +63,7 @@ div {
 }
 
 #mountain {
-    padding-top: 5px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-bottom: 30px;
+    padding: 5px 5px 30px;
     border-style: solid;
 
 }
