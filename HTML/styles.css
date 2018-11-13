@@ -43,8 +43,12 @@ div {
     width: 545px;
 }
 
-.spacing {
+.wdspacing {
     word-spacing: 45px;
+}
+
+.wdspacing2 {
+    word-spacing: 30px;
 }
 .indent {
     padding-left: 30px;
