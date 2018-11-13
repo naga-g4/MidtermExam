@@ -18,8 +18,9 @@ div {
 }
 
 #menu {
-    width: 445px;
+    width: 545px;
     text-align: right;
+    margin-top: 0;
 }
 
 #logo {
