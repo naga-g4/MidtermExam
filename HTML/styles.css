@@ -8,10 +8,6 @@
     clear: both;
 }
 
-div {
-    display: block;
-}
-
 #top {
     height: 135px;
     line-height: 0;
@@ -71,6 +67,9 @@ div {
     line-height: 0.5px;
 }
 
+div {
+    display: block;
+}
 
 #footer {
     width: 960px;
