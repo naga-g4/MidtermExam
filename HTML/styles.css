@@ -63,7 +63,7 @@ div {
 
 #mountain {
     width: 376px;
-    padding-bottom: 30px;
+    padding: 10px;
     border-style: solid;
     align-content: center;
 }
