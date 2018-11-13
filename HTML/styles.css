@@ -62,8 +62,10 @@ div {
 }
 
 #mountain {
-
-    padding: 10px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 30px;
     border-style: solid;
 
 }
