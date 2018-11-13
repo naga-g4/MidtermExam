@@ -86,10 +86,14 @@ div {
     margin-right: auto;
 }
 
-#title {
-    background-color: black;
-}
-
 .paddingTop {
     padding-top: 50px;
+}
+
+#container {
+    position: relative;
+}
+
+#text {
+    position: absolute;
 }
