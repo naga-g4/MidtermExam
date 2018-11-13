@@ -53,7 +53,7 @@ div {
 #information {
     text-align: center;
     width: 200px;
-    border-style: solid;
+    border: thin solid;
     padding: 1px;
     margin-right: 200px;
     line-height: 1px;
