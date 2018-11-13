@@ -91,11 +91,11 @@ div {
 }
 
 .image {
-    position: absolute;
+    position: relative;
 }
 
 .text {
-    position: relative;
+    position: absolute;
     background-color: black;
     opacity: 80%;
 }
