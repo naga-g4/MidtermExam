@@ -89,3 +89,7 @@ div {
 #title {
     background-color: black;
 }
+
+.paddingTop {
+    padding-top: 50px;
+}
