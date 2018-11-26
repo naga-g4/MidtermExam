@@ -96,6 +96,7 @@ div {
     position: relative;
     text-align: center;
     border-bottom: 0;
+    padding-bottom: 0;
 }
 
 .text {
