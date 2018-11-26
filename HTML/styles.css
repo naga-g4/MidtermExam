@@ -108,3 +108,8 @@ div {
 .titleText {
     padding-top: 120px;
 }
+
+.subText {
+    text-align: right;
+    color: blue;
+}
