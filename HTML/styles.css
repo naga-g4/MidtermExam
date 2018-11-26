@@ -96,6 +96,7 @@ div {
 }
 
 .text {
+    position: absolute;
     background-color: black;
     color: white;
     opacity: 0.8;
