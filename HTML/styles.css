@@ -80,8 +80,6 @@ div {
     height: 120px;
     color: white;
     margin-bottom: 30px;
-    border-top: 0;
-    padding-top: 0;
 }
 
 .margin {
@@ -96,8 +94,6 @@ div {
 #image {
     position: relative;
     text-align: center;
-    border-bottom: 0;
-    padding-bottom: 0;
 }
 
 .text {
